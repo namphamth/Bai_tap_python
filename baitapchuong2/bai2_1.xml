@@ -1,0 +1,16 @@
+<?xml ="1.0" encoding="UTF-8"?>
+<company>
+  <employee>
+      <firstname>Phạm</firstname>
+      <lastname>Thanh</lastname>
+      <phone>0123456789</phone>
+      <taxcode>23345</taxcode>
+      <address>
+         <city>Hà Nội</city>
+         <district>Hai Bà Trưng</district>
+         <ward>Đồng Tâm</ward>
+         <street>Lê Thanh Nghị</street>
+         <housenumber>113</housenumber>
+      </address>
+  </employee>
+</company>

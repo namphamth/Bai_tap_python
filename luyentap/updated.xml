@@ -1,0 +1,9 @@
+<employee>
+    <fname>A</fname>
+    <lname>Nguy&#7877;n V&#259;n</lname>
+    <city>H&#224; N&#7897;i</city>
+    <expertise name="SQL" />
+    <expertise name="Python" />
+    <expertise name="Testing" />
+    <expertise name="Business" />
+<expertise name="XML" /></employee>

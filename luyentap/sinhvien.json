@@ -1,0 +1,14 @@
+[
+    {
+    "ho_va_ten" : "Nguyễn Văn A",
+    "nam_sinh" : 2004
+    },
+    {
+    "ho_va_ten" : "Nguyễn Văn C",
+    "nam_sinh" : 2003
+    },
+    {
+    "ho_va_ten" : "Lê Thị B",
+    "year" : 2004
+    }
+   ]
